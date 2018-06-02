@@ -51,7 +51,7 @@
 
 
             <form action="/login.php" method="post">
-              <h1>Login Form</h1>
+              <h1>Login Form afvas</h1>
               <div>
                 <input type="text" class="form-control" name="name" placeholder="Username" required="" />
               </div>
